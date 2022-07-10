@@ -11,11 +11,12 @@
 |-- EFI
 ```
 
-其中，BaseSystem.* 由macrecovery获得
+这可由下面的“EFI”工具获得。
+但该工具未包含macOS最新版本，macOS最新版本的BaseSystem.* 可由macrecovery获得。
 
 # EFI
 https://github.com/Jiangmenghao/NUC8i5BEH
 
 # macrecovery
 https://github.com/luchina-gabriel/macrecovery
-（比 https://github.com/acidanthera/OpenCorePkg 的要新）
+（比 https://github.com/acidanthera/OpenCorePkg 下的 Utilities/macrecovery 更新。）
