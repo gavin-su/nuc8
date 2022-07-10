@@ -15,7 +15,9 @@
 但该工具未包含macOS最新版本，macOS最新版本的BaseSystem.* 可由macrecovery获得。
 
 # EFI
-https://github.com/Jiangmenghao/NUC8i5BEH
+
+- https://github.com/Jiangmenghao/NUC8i5BEH
+- macOS 12.4的放在百度云上了
 
 # macrecovery
 https://github.com/luchina-gabriel/macrecovery
