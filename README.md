@@ -27,4 +27,8 @@ https://github.com/luchina-gabriel/macrecovery
 python3.8.exe macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
 
 # 参考
-安装指引：https://zhuanlan.zhihu.com/p/165608087
+安装指引：
+
+https://zhuanlan.zhihu.com/p/165608087
+
+https://bbs.pcbeta.com/viewthread-1911901-1-1.html
