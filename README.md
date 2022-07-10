@@ -19,7 +19,9 @@ https://github.com/Jiangmenghao/NUC8i5BEH
 
 # macrecovery
 https://github.com/luchina-gabriel/macrecovery
+
 （比 https://github.com/acidanthera/OpenCorePkg 下的 Utilities/macrecovery 更新。）
 
 获取最新的macOS，执行：
+
 python3.8.exe macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
