@@ -25,3 +25,6 @@ https://github.com/luchina-gabriel/macrecovery
 获取最新的macOS，执行：
 
 python3.8.exe macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
+
+# 参考
+安装指引：https://zhuanlan.zhihu.com/p/165608087
