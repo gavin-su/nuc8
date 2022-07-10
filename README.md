@@ -4,11 +4,11 @@
 # U盘目录结构
 
 U盘
--- com.apple.recovery.boot
-    -- .contentDetails
-    -- BaseSystem.chunklist
-    -- BaseSystem.dmg
--- EFI
+|-- com.apple.recovery.boot
+    |-- .contentDetails
+    |-- BaseSystem.chunklist
+    |-- BaseSystem.dmg
+|-- EFI
 
 # EFI
 https://github.com/Jiangmenghao/NUC8i5BEH
