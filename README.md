@@ -3,15 +3,15 @@
 
 # U盘目录结构
 
+```
 |-- com.apple.recovery.boot
-
     |-- .contentDetails
-    
     |-- BaseSystem.chunklist
-    
-    |-- BaseSystem.dmg
-    
+    |-- BaseSystem.dmg 
 |-- EFI
+```
+
+其中，BaseSystem.* 由macrecovery获得
 
 # EFI
 https://github.com/Jiangmenghao/NUC8i5BEH
