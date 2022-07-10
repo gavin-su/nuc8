@@ -20,7 +20,7 @@ https://github.com/Jiangmenghao/NUC8i5BEH
 # macrecovery
 https://github.com/luchina-gabriel/macrecovery
 
-（比 https://github.com/acidanthera/OpenCorePkg 下的 Utilities/macrecovery 更新。）
+（比 https://github.com/acidanthera/OpenCorePkg 下的 Utilities/macrecovery 要新。）
 
 获取最新的macOS，执行：
 
